@@ -22,7 +22,7 @@
         <router-link class="btn btn-lg btn-success" to="/private-meetups">Private Meetups</router-link>
       </div>
       <div class="jumbotron text-center" v-else>
-        <h2>Get Access to Private Meetups by Logging In</h2>
+        <h2>Hi Vy Get Access to Private Meetups by Logging In</h2>
       </div>
     </div>
   </div>
